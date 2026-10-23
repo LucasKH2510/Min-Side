@@ -1,0 +1,11 @@
+title: "Welcome"
+format: html
+theme: cosmo
+
+---
+
+# Welcome to My Website
+
+## CV
+
+Download my CV [here](https://example.com/my-cv.pdf).

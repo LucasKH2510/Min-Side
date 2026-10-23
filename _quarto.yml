@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lucas K. H."
+  navbar:
+    left:
+      - index.qmd
