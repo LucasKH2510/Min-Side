@@ -4,8 +4,23 @@ theme: cosmo
 
 ---
 
-# Welcome to My Website
+# Velkommen til min hjemmeside
 
-## CV
+## CV - Lucas Kobberø Hundahl
 
-Download my CV [here](https://example.com/my-cv.pdf).
+### 22 år, 9000 Aalborg, Danmark
+
+Download mit CV ved at trykke [her](https://example.com/my-cv.pdf).
+
+1. Uddannelse
+  - Folkeskole Tingstrup skole 2020
+  - HTX EUC Nordvest 2023
+  - Bachelor i Innovation & Digitalisering 2026-2029
+  - Kandidat i IT-Ledelse 2029-2031
+
+2. Arbejdserfaring
+  - Opvasker SMOVS 2018-2019
+  - Fakta / COOP 365 Discount 2020-2023
+  - Lærervikar Tilsted Skole 2025-2026
+  
+![Caption](elephant.png)
